@@ -40,6 +40,17 @@ A FastAPI-based CRUD application providing user management APIs.
 | Swagger Documentation | https://crud-ishika.duckdns.org/docs         |
 | OpenAPI Specification | https://crud-ishika.duckdns.org/openapi.json |
 
+
+oot Endpoint:
+https://crud-ishika.duckdns.org
+
+Response:
+{"detail":"Not Found"}
+
+Note:
+The root route is intentionally not implemented.
+Use /docs for Swagger documentation and /health for service health check.
+
 ### Available API Endpoints
 
 | Method | Endpoint           | Description               |
