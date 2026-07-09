@@ -369,7 +369,8 @@ https://crud-ishika.duckdns.org/docs
 
 Both application pipelines are executed through Jenkins using Jenkinsfile-based automation.
 
-<img width="723" height="490" alt="Jenkins Pipeline Execution Status" src="https://github.com/user-attachments/assets/cef3675a-b857-405b-b319-332311cf07b2" />
+
+<img width="1878" height="409" alt="image" src="https://github.com/user-attachments/assets/0c8e99fa-d941-4239-8eba-faba244c2968" />
 
 ---
 
